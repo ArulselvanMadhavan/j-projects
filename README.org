@@ -1,0 +1,5 @@
+* Learning Materials
+  - https://www.jsoftware.com/help/learning/01.htm
+* Emacs
+  - https://github.com/zellio/j-mode
+  - https://code.jsoftware.com/wiki/Guides/Emacs

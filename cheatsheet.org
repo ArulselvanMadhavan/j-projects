@@ -1,10 +1,20 @@
-|    |         |               |
-|----+---------+---------------|
-| >  | Dyadic  | Larger Than   |
-| >. | Monadic | Ceiling       |
-| >. | D       | Larger of two |
-| >: | M       | Increment     |
-|    |         |               |
+|    |         |                    |
+|----+---------+--------------------|
+| >  | Dyadic  | Larger Than        |
+| >. | Monadic | Ceiling            |
+| >. | D       | Larger of two      |
+| >: | M       | Increment          |
+| #  | M       | Tally              |
+| $  | M       | list of dimensions |
+| ,  | D       | Append             |
+| {  | D       | From               |
+| i. | M       | Generates/iota     |
+| i. | D       | Index of           |
+| -: | D       | Match              |
+| =  | D       | Equal              |
+| ;  | D       | Link               |
+| ": | D       | Format             |
+| <  | M       | Box                |
+| >  | M       | Open               |
+|    |         |                    |
 
-> Dyadic "Larger Than"
->. Monadic
