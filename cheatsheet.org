@@ -1,0 +1,10 @@
+|    |         |               |
+|----+---------+---------------|
+| >  | Dyadic  | Larger Than   |
+| >. | Monadic | Ceiling       |
+| >. | D       | Larger of two |
+| >: | M       | Increment     |
+|    |         |               |
+
+> Dyadic "Larger Than"
+>. Monadic
