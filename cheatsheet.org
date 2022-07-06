@@ -4,7 +4,7 @@
 | >. | Monadic | Ceiling            |
 | >. | D       | Larger of two      |
 | >: | M       | Increment          |
-| #  | M       | Tally              |
+| #  | M       | Tally(Length)      |
 | $  | M       | list of dimensions |
 | ,  | D       | Append             |
 | {  | D       | From               |
@@ -16,5 +16,6 @@
 | ": | D       | Format             |
 | <  | M       | Box                |
 | >  | M       | Open               |
-|    |         |                    |
+| ,. | M       | Ravel items        |
+| ,: | M       | Laminate           |
 
